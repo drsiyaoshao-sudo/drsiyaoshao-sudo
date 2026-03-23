@@ -41,5 +41,4 @@ Former EIR @ TandemLaunch (Technical Due Diligence & Venture Formation)
 🤝 Connect
 I am looking for founders, researchers, and investors who believe hardware development should move at the speed of software.
 
-📅 [Book a 30-min Deep Dive](calendly.com/dr-siyaoshao/30min) 
 🐦 Follow the 30-Day Digital Twin Sprint on [LinkedIn](https://www.linkedin.com/in/siyao-shao-5a830586/)
