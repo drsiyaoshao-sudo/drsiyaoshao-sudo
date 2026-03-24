@@ -17,9 +17,8 @@ Four projects, two days, one philosophy. I build from values upward, not from do
 [gait_device](https://github.com/drsiyaoshao-sudo/gait_device)
 
 Status: Functional Signal-Level Simulator
-This is the culmination of my work in "Physics-Native Computing." While generic wearables use black-box ML for activity tracking, this system maps human motion through first-order mechanical data.
 
-The Stack: numpy/scipy for signal processing, physics-grounded gait modeling, and four distinct user-profile architectures. **PlatformIO** for firmware. **Renode** for deterministic hardware simulation. Wrapped in a user-friendly UX to bridge the gap between low-level signal and high-level decision making
+The Human-Centric Mission: Big Tech solves for the "average" user. I am building for the Stochastic Ghost—the non-linear edge cases (like the Stairmaster drift or post-op gait asymmetry) where standard firmware fails. By simulating a diverse library of "Pathological Profiles" before touching a PCB, we ensure hardware works for the individual, not just the test group.
 
 The Goal: Moving from signal-level validation to a full-stack Digital Twin to collapse the hardware-software co-design cycle.
 
