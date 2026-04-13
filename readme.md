@@ -27,6 +27,18 @@ I spent a decade building the world’s first commercial reservoir computer and 
 
 AWS collapsed infrastructure. Claude Code collapsed software. I am building the tool that collapses the hardware-software co-design loop.
 
+Development plan: as of 2026-04-12, we have Crucible-Lite AI engineering governance tool for hardware and software integration, we are developing:
+
+Crucible-connect: Telecomminucation hardware simulation and failure mode capturing
+
+Crucible-comfort: HVAC peformance analysis and optimization
+
+Crucible-silicon: ASIC and MEMS development governance
+
+Crucible-neural: automatic physics informed neural network generation and management
+
+Crucible-hybrid: local-cloud intelligence cooperation to ensure security in hardware development
+
 Background:
 
 PhD in Mechanical Engineering (U of Minnesota)
